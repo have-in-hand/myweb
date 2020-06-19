@@ -1,0 +1,19 @@
+.theme{width: 62%;float: left;margin-bottom: 12px;margin-top: 15px;margin-left: 150px;}
+     .themeletter{font-size: 40px;}
+     l {
+    text-align: center;
+    font:bold 60px helvetica, arial, sans-serif;
+    color:rgb(1, 39, 3);        /*字体设为墨绿色*/
+    text-shadow: 0 0 4px white,    /*第一层阴影为白色*/
+        0 -5px 4px rgb(65, 66, 65),     /*第二层阴影为灰色*/     
+        2px -10px 10px rgb(1, 36, 7);    /*最后一层阴影为墨绿色，扩散效果设置较明显*/
+}
+    .englishwords{width:1000px;background-color: #F1EFE3;margin:0 auto;}
+    td{width:250px;text-align: center;border:1px solid rgb(49, 49, 49);  }
+    tr{height: 28px;}
+    a{text-decoration:none} 
+        a.a1{color:black}  
+        a.a1:hover{color:#f00}
+    .word_link{font-size: 23px;background-color:rgb(121, 124, 124);text-align: center;}
+    .translation{width: 1000px;margin: 0 auto;margin-top: 18px;border: 1px solid darkgray;}
+    .trancontain{font-size: 20px;line-height: 120%;}

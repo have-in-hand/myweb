@@ -1,0 +1,18 @@
+.header{width:400px;margin-left: 200px;}
+    l {
+    text-align: center;
+    font:bold 50px helvetica, arial, sans-serif;
+    color:black;        /*字体设为墨色*/
+    text-shadow: 0 0 4px white,    /*第一层阴影为白色*/
+        0 -5px 4px  white,     /*第二层阴影为灰色*/     
+        2px -10px 10px rgb(1, 36, 7);    /*最后一层阴影为墨绿色，扩散效果设置较明显*/
+    }
+    .nav{width:1000px;height: 30px;margin:0 auto;}
+    .nav_letter{color:white;font-size: 20px;display: inline;}
+    
+    a{text-decoration:none} 
+    a.a1{color:white}  
+    a.a1:hover{color:#f00} 
+    .part{width: 1000px;height:400px;margin: 0 auto;background-color: white;margin-top: 20px;}
+    .part_title{width: 1000px;height: 35px;background-color: rgb(93, 93, 94);  font-size: 18px;font-family:"SimSun";font-weight: bold;text-align: initial;color: white;}
+    .part_box{float: left;background-color: white;font-family:"SimSun";font-size: 15px;width: 960px;margin-left: 20px;}
